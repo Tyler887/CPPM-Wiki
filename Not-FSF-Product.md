@@ -1,0 +1,1 @@
+Do not prefix the name with GNU as this is not an FSF product.
