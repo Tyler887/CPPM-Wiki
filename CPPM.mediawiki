@@ -1,1 +1,4 @@
-CPPM, also known as the Cross-Platform Package Manager, and formerly known as Package Manager or PM, is a package manager that runs on every single operating system that runs Python. The reason why PM was renamed to CPPM is because of confusion between other package managers.
+CPPM, also known as the Cross-Platform Package Manager, and formerly known as Package Manager or PM, is a package manager that runs on every single operating system that can use Python. The reason why PM was renamed to CPPM is because of confusion between PM and other package managers.
+
+CPPM installs packages by collecting the files on GitHub. The <code>CPPMInstallNotice.txt</code> sets the notice that will appear after installation.
+The <code>cppm</code> command is the main "runtime" of CPPM that can be executed without Python.
