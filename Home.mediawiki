@@ -2,6 +2,7 @@ Welcome to the CPPM Wiki!
 
 :• Anyone in the CPPM community with a GitHub account can edit.
 :• The contents of this wiki are licensed under [https://creativecommons.org/licenses/by/4.0 Creative Commons, Attribution 4.0 International].
+:• Most of the pages here are likely to be written in Wikitext, the MediaWiki markup language.
 ==What does "CPPM" stand for?==
 CPPM stands for '''C'''ross-'''P'''latform '''P'''ackage '''M'''anager, therefore some people can accidentally call it CPM.
 Any references to CPPM on the wiki must not be "CPM".
