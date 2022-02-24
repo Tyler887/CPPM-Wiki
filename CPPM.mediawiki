@@ -1,0 +1,1 @@
+CPPM, also known as the Cross-Platform Package Manager, and formerly known as Package Manager or PM, is a package manager that runs on every single operating system that runs Python. The reason why PM was renamed to CPPM is because of confusion between other package managers.
