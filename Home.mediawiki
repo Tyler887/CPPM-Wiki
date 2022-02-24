@@ -1,4 +1,4 @@
-Welcome to the CPPM Wiki!
+Welcome to [[CPPM]] and the CPPM Wiki!
 
 :• Anyone in the CPPM community with a GitHub account can edit.
 :• The contents of this wiki are licensed under [https://creativecommons.org/licenses/by/4.0 Creative Commons, Attribution 4.0 International].
