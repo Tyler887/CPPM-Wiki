@@ -7,4 +7,4 @@ Welcome to [[CPPM]] and the CPPM Wiki!
 CPPM stands for '''C'''ross-'''P'''latform '''P'''ackage '''M'''anager, therefore some people can accidentally call it CPM.
 Any references to CPPM on the wiki must not be "CPM".
 
-{{NoFSF}}
+Do not prefix the name with GNU as this is not an FSF product.
